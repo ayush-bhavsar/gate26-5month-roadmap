@@ -9,13 +9,13 @@ It runs entirely in the browser – **no backend required**.
 
 ## 🚀 Features
 
-✅ **Interactive Weekly Cards** – Study plan is divided into 23 weeks. Mark weeks as *complete* when done.
-✅ **Dynamic Progress Tracking** – Progress bar + percentage counter updates in real time.
-✅ **Live Exam Countdown** – Always shows remaining time until **February 8, 2026**.
-✅ **Phase-Based Navigation** – Jump to preparation phases: *Foundational Learning*, *Intensive Revision*, *Full-Length Mocks*.
-✅ **Persistent State** – Progress is stored in **localStorage** (auto-saved).
-✅ **Fully Responsive** – Works seamlessly on **desktop, tablet, and mobile**.
-✅ **Customizable** – Edit the `studyPlan` array in the HTML file to adjust subjects, weeks, or goals.
+✅ **Interactive Weekly Cards** – Study plan is divided into 23 weeks. Mark weeks as *complete* when done.\
+✅ **Dynamic Progress Tracking** – Progress bar + percentage counter updates in real time.\
+✅ **Live Exam Countdown** – Always shows remaining time until **February 8, 2026**.\
+✅ **Phase-Based Navigation** – Jump to preparation phases: *Foundational Learning*, *Intensive Revision*, *Full-Length Mocks*.\
+✅ **Persistent State** – Progress is stored in **localStorage** (auto-saved).\
+✅ **Fully Responsive** – Works seamlessly on **desktop, tablet, and mobile**.\
+✅ **Customizable** – Edit the `studyPlan` array in the HTML file to adjust subjects, weeks, or goals.\
 
 ---
 
